@@ -1,8 +1,19 @@
 body {
-    background-image: url(background.jpg);
+    background-color: #0d0b0d;
 }
 
-.main {
+.table_projects {
+    padding-top: 1%;
+    margin: auto;
+    width: 70%;
+    background-color: white;
+}
+
+td {
+    text-align: center;
+}
+
+.menu {
     text-align: center;
     padding-top: 1%;
 }
